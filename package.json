@@ -1,0 +1,19 @@
+{
+  "name": "unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "write-unit-tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkeJr/unit-test-with-jest.git"
+  },
+  "author": "Berke Sayin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkeJr/unit-test-with-jest/issues"
+  },
+  "homepage": "https://github.com/berkeJr/unit-test-with-jest#readme"
+}
